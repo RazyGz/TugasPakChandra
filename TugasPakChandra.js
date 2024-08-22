@@ -1,6 +1,6 @@
 let score1 = 0;
 let score2 = 0;
-const winScore = 21;
+const winScore = 25;
 
 function addScore(team) {
     if (team === 1) {
